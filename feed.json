@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "vedicvibes.in",
+    "description": "",
+    "home_page_url": "https://shameerpuri.github.io/vedicvibes",
+    "feed_url": "https://shameerpuri.github.io/vedicvibes/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Shameer Puri"
+    },
+    "items": [
+    ]
+}
